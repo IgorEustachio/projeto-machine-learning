@@ -13,8 +13,7 @@
   - Biblioteca Streamlit para a criação da interface;
   - Biblioteca Scikit-Learn para o machine learning;
   - Biblioteca Pandas para a manipulação de dados;
-- Jupyter Notebook para a realização de testes.
-
+    
 ---
 
  ## 📂 Estrutura dos Arquivos
@@ -22,3 +21,4 @@
 - app.py: arquivo onde se encontra o código em Python;
 - pizzas.csv: arquivo Excel que forneceu as informações necessárias para a Regressão Linear;
 - testes.ipynb: arquivo do Jupyter Notebook onde foram realizados alguns testes.
+
